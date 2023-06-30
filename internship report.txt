@@ -1,0 +1,13 @@
+day 1
+choose the project title and algorithm related to CNN
+title: Coloring black and white photos
+
+link:https://github.com/richzhang/colorization/blob/master/colorization/demo/colorization_demo_v2.ipynb
+
+
+day 2:choose a dataset as binary or multiple class
+dataset- vegetable classification(binary class)
+capsicum and tomato
+create a folder name capsicum and tomato
+first download  ->bulk image downloader extension
+
